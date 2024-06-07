@@ -1,5 +1,7 @@
-# TAG
-Text-to-Audio-Generator
+# TAG 
+Text-to-Audio-Generator (@TextToAudioGeneratorBot)
+
+Бот для генерации аудио по текстовому запросу.
 
 ## Bot
 
