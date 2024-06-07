@@ -52,4 +52,4 @@ sound_generator_service соединяется с брокером сообще�
 
 **wav_evaluation** – это модуль,
  
-*Авторы: Rongjie Huang, Jiawei Huang, Dongchao Yang, Yi Ren, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao.
+**Авторы: Rongjie Huang, Jiawei Huang, Dongchao Yang, Yi Ren, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao.*
